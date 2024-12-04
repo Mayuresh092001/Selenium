@@ -10,8 +10,8 @@ public class contactsRepo {
 		
 		PageFactory.initElements(driver, this);
 	}
-	private @FindBy(xpath = "//a[text()='Contacts']");
-	WebElement contact;
+	//private @FindBy(xpath = "//a[text()='Contacts']");
+	//WebElement contact;
 	
 	
 }
